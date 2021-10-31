@@ -1,2 +1,2 @@
 # ForkBot
-Just a simple telegram bot
+A telegram bot utility for github repos
